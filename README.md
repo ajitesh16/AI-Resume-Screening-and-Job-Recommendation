@@ -2,6 +2,12 @@
 
 An NLP-based application that analyzes resumes and recommends suitable job roles by comparing resume content with job descriptions.
 
+## 🚀 Live Demo
+
+👉 **[Try the AI Resume Screening & Job Recommendation System](https://ai-resume-screening-and-job-recommendation.streamlit.app/)**
+
+Upload a PDF or DOCX resume and get job recommendations based on skills and text similarity.
+
 ## Project Overview
 
 Recruiters may need to screen a large number of resumes while candidate skills, qualifications and experience vary widely. This project automates the first stage of screening by extracting resume text, detecting relevant skills and comparing the resume with a collection of job descriptions.
